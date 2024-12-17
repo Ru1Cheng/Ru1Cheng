@@ -13,12 +13,12 @@ Hi, I'm Ruyi Cheng (Charlotte) 👋
 -Dream Animation: Using AI tools to share my personal experiences as a narcolepsy patient.
 
 🎯 Goals
--Design apps and tools for rare disease research and non-pharmacological treatments.
+-Design apps and tools for rare disease research and non-pharmacological treatments.\n
 -Advance understanding of sleep disorders through creative technologies like dream visualization (AR/VR).
 -Develop scientific animations to educate others about the brain, inspired by shows like Cells at Work.
 
 📫 Let's Connect!
--🌟 Portfolio/Website (Coming Soon!)
+-🌟 **Portfolio/Website (Coming Soon!)**
 
 <!---
 Ru1Cheng/Ru1Cheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
